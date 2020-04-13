@@ -9,13 +9,13 @@
       "localizedDescription": "YouTube Music is a new music app that allows you to easily find what you’re looking for and discover new music. Get playlists and recommendations served to you based on your context, tastes, and what’s trending around you.\n\nA new music streaming service from YouTube\nThis is a completely reimagined music service with official releases from your favorite artists.\n\nFind the music you want\n● Easily find the albums, singles, live performances, covers and remixes you’re looking for.\n● Don’t know a song’s name? Just search the lyrics or describe it.\n\nDiscover new music\n● Get music recommendations based on taste, location, and time of day.\n● Use “The Hotlist” to keep up with what’s trending.",
       "name": "YTMusilife",
       "screenshotURLs": [
-        ""
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG"
       ],
       "size": 35353156,
       "subtitle": "Stream Songs and play videos",
       "tintColor": "800B00",
       "version": "1.14.12",
-      "versionDate": "",
+      "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": "● Listen ad-free\n● Don’t worry about your music stopping when you lock your screen or use other apps.\n● Download your favorites or let us do it for you by enabling Offline Mixtape."
     },
     {
@@ -27,13 +27,13 @@
       "localizedDescription": "SoundCloud is the world's largest music and audio streaming platform – 200 million tracks and growing. With a buzzing community of artists and musicians constantly uploading new music, SoundCloud is where you can find the next big artists alongside chart-topping albums, live sets, and mixes for every occasion.\n\nOur enormous catalog lets you discover amazing hip hop, electronic, rock, classical, jazz, podcasts, audiobooks, sports and much, much more.\n\nSoundCloud offers a family of products for all listeners and creators. Join our diverse community, connect with artists you love, and start discovering new music today.\n\n- Over 120 million tracks from emerging and established artists\n- Get suggested tracks based on your likes and listening habits\n- Discover incredible music in each genre with SoundCloud charts, from all-time greats to the newest and hottest tracks\n- Connect with friends and interact with your favorite artists directly\n- Create playlists for parties, workouts, on the way to work, or whatever mood you're in",
       "name": "SCloudlife",
       "screenshotURLs": [
-        ""
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG"
       ],
       "size": 36622084,
       "subtitle": "Play new podcasts & playlists",
       "tintColor": "804000",
       "version": "4.16.2",
-      "versionDate": "",
+      "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": "- Discover, stream, and share a constantly expanding mix of music – anytime, anywhere\n- Take your collection offline, everywhere you go\n- No ads, for an uninterrupted listening experience"
     },
     {
@@ -45,13 +45,13 @@
       "localizedDescription": "Create stations from your favorite songs, artists or genres, search or browse to find recommended stations for your mood or activity, and discover podcasts that speak to you. Download today and get instant access to your favorite artists and podcasts, while staying up to date on the most recent singles and releases. From rap and pop to rock and country, play your favorite artists and stay up to date on today’s top hits and releases. Start streaming all of the current global hits and enjoy your own personalized music experience.\nTake Pandora with you wherever you go with CarPlay for your daily commute or your next road trip. Enjoy your own personalized music or podcast experience from anywhere on the world’s most powerful music discovery platform. The new voice mode lets you search, play, pause, skip, adjust volume & thumb up music with a simple voice command. Start streaming your favorite artist, song, genre, or podcast instantly today for free in your car.\nWith Podcasts on Pandora, find your favorites and listen to personalized recommendations that actually make sense. Just search on your mobile phone or tablet and play to start listening, then tap + to add to your collection. Find something new by simply browse and tap recommended podcasts to find over 1,400 podcasts, including SiriusXM shows, on-demand whether you're on Pandora Premium, Plus or Radio.\nLooking for more?\nMeet Pandora Modes - The new way to customize your station experience. Choose from six different modes to switch up the kind of music you're hearing:\nMy Station: The station experience you know and love.\nCrowd Faves: Hear the most thumbed-up songs by other listeners.\nDeep Cuts: Hear less familiar songs from station artists.\nDiscovery: Hear more artists who don't usually play on this station.\nNewly Released: Hear the newest releases from station artists.\nArtist Only: Hear songs from the station artist.",
       "name": "Pandolife",
       "screenshotURLs": [
-        ""
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG"
       ],
       "size": 40836461,
       "subtitle": "Streaming, Radio, Podcasts",
       "tintColor": "005580",
       "version": "7.9",
-      "versionDate": "",
+      "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": "Unlimited personalized stations and podcasts\nUp to four stations for offline listening\nUnlimited skips and replays\nHigher quality audio\nListen with ad-free music"
     },
     {
@@ -63,14 +63,14 @@
       "localizedDescription": "Stream your favourite songs, store music on your smartphone and create playlists with your favourites. More than 60 million songs are waiting for you!\n\nImmerse yourself in a world full of music with Napster today!\n\nNapster Features\n\n- Play any song instantly without ads\n- Stream to hundreds of devices\n- Listen to music anytime and anywhere - load playlists and songs directly to your iPhone, Apple Watch** or iPad to play offline\n- Find your Music Match to discover new music from people with similar tastes\n- With our Playlist Builder, you can easily and interactively create your own playlists and give them a personal touch with a GIF or one your own pictures",
       "name": "Napstelife",
       "screenshotURLs": [
-        ""
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG"
       ],
       "size": 93582490,
       "subtitle": "Play millions of songs on your iPhone or iPad.",
       "tintColor": "002A80",
       "version": "5.6.2",
-      "versionDate": "",
-      "versionDescription": ""
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "** Requires latest AltServer beta to fully work. Download from https://altstore.io/altserver/beta **\n\nThe next big beta feature is here: AltStore now supports 3rd party app sources! Add sources in the Browse tab to expand the number of apps available to download through AltStore.\n\nNEW FEATURES\n• Initial support for 3rd party sources\n• Activate and deactivate apps via drag & drop\n• Option to remove app extensions from apps to save active app slots\n\nBUG FIXES\n• Fixes issue causing .ipa files to appear disabled in document picker\n• Fixes issue causing refreshing to sometimes not finish when using older AltServer\n• Fixes \"invalid app group\" error when installing apps\n• Removes cached apps after they have been uninstalled\n• Fixes peek & pop on iOS 12\n\nPREVIOUS BETA\n• Adds support for activating/deactivating apps to stay under iOS 13.3.1 active app limit\n• Significantly improves performance when refreshing apps\n• Improves error messages when refreshing apps\n• Improves stability when refreshing apps over WiFi\n\nNOTE: Support for 3rd party sources will be disabled in public versions of AltStore until it is finished."
     }
   ],
   "identifier": "com.example.source",
