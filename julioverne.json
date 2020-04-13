@@ -1,0 +1,91 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.julioverne.YTMusilife",
+      "developerName": "Google LLC",
+      "downloadURL": "https://drive.google.com/uc?export=download&confirm=Wyyk&id=1OV2uUO6l-1gYzHyTITiZxDBRZ6jN01SY",
+      "iconURL": "https://lh5.googleusercontent.com/KHm2_BPBNlkEaokRouCd1HY0HRDRbWV7I8ZhhDE67b8fXxX6Tf2WJnO6CZE1gVlbq6M3ElBy6CWYHjskBh2l=w2880-h1554",
+      "localizedDescription": "YouTube Music is a new music app that allows you to easily find what you’re looking for and discover new music. Get playlists and recommendations served to you based on your context, tastes, and what’s trending around you.\n\nA new music streaming service from YouTube\nThis is a completely reimagined music service with official releases from your favorite artists.\n\nFind the music you want\n● Easily find the albums, singles, live performances, covers and remixes you’re looking for.\n● Don’t know a song’s name? Just search the lyrics or describe it.\n\nDiscover new music\n● Get music recommendations based on taste, location, and time of day.\n● Use “The Hotlist” to keep up with what’s trending.",
+      "name": "YTMusilife",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 35353156,
+      "subtitle": "Stream Songs and play videos",
+      "tintColor": "800B00",
+      "version": "1.14.12",
+      "versionDate": "",
+      "versionDescription": "● Listen ad-free\n● Don’t worry about your music stopping when you lock your screen or use other apps.\n● Download your favorites or let us do it for you by enabling Offline Mixtape."
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.julioverne.SCloudlife",
+      "developerName": "SoundCloud Ltd.",
+      "downloadURL": "https://drive.google.com/uc?export=download&confirm=7dsv&id=1c6En70oqyt-eNOGLeHYllvKn-AOTNsgG",
+      "iconURL": "https://lh3.googleusercontent.com/EKLWnYqGn7Fe_064LO6sYSBeP8NA5Usd_TJ41zGYh5NcX9sTCG3Xv7MoaztUjARMeo0Mp8Lf7yKWuOuwLMT4MIWbh5-RTmW98L_iqORUE9bxy30LMucdtimQuIrSrOgnGX-SFcdb6sOjVAyZpb8Bqt-eDoWUU8ehCLs9clFk3rP5smdgTvxY960KhP7xvXdz1Y1tLsxv0Uz03HQrVMnn1XvRFmOR_QRNPqwYgdngvhrD_9Vmqt3_biYUboSfh5TV0KSQ36Epsl30cHsso3WvUzCjnwD3T-BDX2mr_3ziOMMjjKP1ec9xcl-EfHZ3Tqt2imPkIzuvXF2f8ccdnDt6SK2ceIhOfgukc9-s6uOkJ6t0kU12NwoNRAK0sz1o7GhFqMG5n8hfBOnNpH1zgTLgflzd63GerwgV9SzZLDGhPBu6GhRfExG28Jzy0-w4zcCIsnPDOuJ9qvUOXXz8VWhCYO2nQje95KxboyZlOqiAZ4RYh3TzVRC5wG-Oe2uvWj-TMCwF0vRx_cF6_vz_b43ZJv8OdG0EMPIqsTNV3kcP22N8SFS64knuVocg-b9PJ6RzkvWKD4MFZEy8FNP6eV261kcueLOYLG7_dgUk9SSesrtOftHSR3DzJpPwXyFfwo7dMeby1PRdp37pCSgBaRez4n5dBtNdFYdYA8Xzki7488RhBpMOx5jIdsV3QGfX0AmeVfJl=w2880-h1554-ft",
+      "localizedDescription": "SoundCloud is the world's largest music and audio streaming platform – 200 million tracks and growing. With a buzzing community of artists and musicians constantly uploading new music, SoundCloud is where you can find the next big artists alongside chart-topping albums, live sets, and mixes for every occasion.\n\nOur enormous catalog lets you discover amazing hip hop, electronic, rock, classical, jazz, podcasts, audiobooks, sports and much, much more.\n\nSoundCloud offers a family of products for all listeners and creators. Join our diverse community, connect with artists you love, and start discovering new music today.\n\n- Over 120 million tracks from emerging and established artists\n- Get suggested tracks based on your likes and listening habits\n- Discover incredible music in each genre with SoundCloud charts, from all-time greats to the newest and hottest tracks\n- Connect with friends and interact with your favorite artists directly\n- Create playlists for parties, workouts, on the way to work, or whatever mood you're in",
+      "name": "SCloudlife",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 36622084,
+      "subtitle": "Play new podcasts & playlists",
+      "tintColor": "804000",
+      "version": "4.16.2",
+      "versionDate": "",
+      "versionDescription": "- Discover, stream, and share a constantly expanding mix of music – anytime, anywhere\n- Take your collection offline, everywhere you go\n- No ads, for an uninterrupted listening experience"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.julioverne.Pandolife",
+      "developerName": "Pandora Media, Inc.",
+      "downloadURL": "https://drive.google.com/uc?export=download&confirm=B2ej&id=1VW5h3GLHeqZtscGdcCjc5-WPuA4cCBHe",
+      "iconURL": "https://lh3.googleusercontent.com/CDk1Za5s92DepklTWQuBmW2uXQFire2iAg6I6Cjz-Q0Jcn0ewJ_WFBv25UauHdaR25mv4ovIK8poe-a6TlfnLTDkt8lr8A1KfugL4k4xOZqAqInQb9MnCJ04RNeKgHLcjVo36L1_d0EaO0hWjUzp5t4NklJf5os2o60NsVqyyuFc6gzaCbrUIaXiCHpXhjJQwKwsxTnbHoyRpDWWFAkLlHRy4nSQ6v_SeWH4xR4fW546MtIrC5wAu3VfSAwQmLeN4j0TecYzBBexd7V5puSNI5roeVIKRU9-9eAHwg_e9AeOmtxvqnzhooeoUYGbfPHZ0yR_2gEMGus5RJ1-fjX5FS3_drlmcECyB6ky0VU3h2RQAf1GTnB4Q_QZWMQ8oZ6wjHa_f4uOBFC3I97NuQS0zZFPilhtAbQI10jB5ro9559iXKQ5d8bCWNlVB5Niwxzfygvom-h7oyRP13v5jPCHaUGD585HgKR2_RT4TP_HLNOhRBvNAKI60z2A7ySX553dqguvHvg3Y9PL7viCG1Zus5P06VkyTWVU8MOtzQW_LWlgcpB0l3sc_yIdkC4p8YlfeLcylMU6iXCuWcxvuFkhrXyyFWlA00tlUvYHJCJ61lFx5LVM4SJhuIJj0oMRHn9xVpJFBC5RrAbZMhjUrINEg_ax2oIR1TQhvNwOvu2J7mb1opECdM4MicXEde-73GJWQzve=w2880-h1554-ft",
+      "localizedDescription": "Create stations from your favorite songs, artists or genres, search or browse to find recommended stations for your mood or activity, and discover podcasts that speak to you. Download today and get instant access to your favorite artists and podcasts, while staying up to date on the most recent singles and releases. From rap and pop to rock and country, play your favorite artists and stay up to date on today’s top hits and releases. Start streaming all of the current global hits and enjoy your own personalized music experience.\nTake Pandora with you wherever you go with CarPlay for your daily commute or your next road trip. Enjoy your own personalized music or podcast experience from anywhere on the world’s most powerful music discovery platform. The new voice mode lets you search, play, pause, skip, adjust volume & thumb up music with a simple voice command. Start streaming your favorite artist, song, genre, or podcast instantly today for free in your car.\nWith Podcasts on Pandora, find your favorites and listen to personalized recommendations that actually make sense. Just search on your mobile phone or tablet and play to start listening, then tap + to add to your collection. Find something new by simply browse and tap recommended podcasts to find over 1,400 podcasts, including SiriusXM shows, on-demand whether you're on Pandora Premium, Plus or Radio.\nLooking for more?\nMeet Pandora Modes - The new way to customize your station experience. Choose from six different modes to switch up the kind of music you're hearing:\nMy Station: The station experience you know and love.\nCrowd Faves: Hear the most thumbed-up songs by other listeners.\nDeep Cuts: Hear less familiar songs from station artists.\nDiscovery: Hear more artists who don't usually play on this station.\nNewly Released: Hear the newest releases from station artists.\nArtist Only: Hear songs from the station artist.",
+      "name": "Pandolife",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 40836461,
+      "subtitle": "Streaming, Radio, Podcasts",
+      "tintColor": "005580",
+      "version": "7.9",
+      "versionDate": "",
+      "versionDescription": "Unlimited personalized stations and podcasts\nUp to four stations for offline listening\nUnlimited skips and replays\nHigher quality audio\nListen with ad-free music"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.julioverne.Napstelife",
+      "developerName": "Rhapsody International S.a.r.l",
+      "downloadURL": "https://drive.google.com/uc?export=download&confirm=2Nnx&id=1UpBBZuMzMK6uxAVHWI3mlN01F64er7Mu",
+      "iconURL": "https://lh3.googleusercontent.com/fYEGB85-KUv68SCibot2TcY6QHNs_PtTmAjmvc5sredc1oJCsEdnfKW87okBin9ou7hIdgLn-YKSR0r4yBIFLVm01p_WnL7P_5zedqlXStKQ2DIoYxQ3-TVM6MD_zGl6lh9pMs5Ugg6By_sKedCktWxUe7jxEdSr27Z46p6WdBov9Eh4dRPbhOXmMOvOFmbEJOI-1zVSM2vnlycZnSySnjSwhhRTg-ReEN9AUBSK2QvEBayN6cQSTFeJdVHPpT4TA1s17wWmzSDf8ITbYs0oFRqN6MSR-79o2qH1BA1RblQuGuft0w_4BR-wabqSm3bh-nVeedl_Akz0emcG4gTUb3tcpefgLn3YLLC91Ehw0TCmZAceA0zcJHJR0PnZrf-4JmM8ZeXRTBL-g3Ca_kkWIxVfpdgT8_EX1amXVKDI6C77QOXZF1R00svoBOosSfyhShDt5c7zkhUNlwVNQJGw1xJvWZRoZWo-nulo2ZJcUCT9e9Bp796SNyhjSl6Nd4R5g5Wr5OQX3eK0OMn63hkGNfZEoh0Cu8dYn0MmouAcqoJHk1ojTnkGhQRTz_RW8yqwIIIq8x85TuqISfSl-zC5envfmfUiIdP57sd1KFhflt0fznR42JM1zqze77uuufjhqeNcWtnBstBrHTHsz62KMXKxmxcz462Nzr_97dlzqboSWlXAi8rmFEYkl3DeRFuIJqFU=w2880-h1554-ft",
+      "localizedDescription": "Stream your favourite songs, store music on your smartphone and create playlists with your favourites. More than 60 million songs are waiting for you!\n\nImmerse yourself in a world full of music with Napster today!\n\nNapster Features\n\n- Play any song instantly without ads\n- Stream to hundreds of devices\n- Listen to music anytime and anywhere - load playlists and songs directly to your iPhone, Apple Watch** or iPad to play offline\n- Find your Music Match to discover new music from people with similar tastes\n- With our Playlist Builder, you can easily and interactively create your own playlists and give them a personal touch with a GIF or one your own pictures",
+      "name": "Napstelife",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 93582490,
+      "subtitle": "Play millions of songs on your iPhone or iPad.",
+      "tintColor": "002A80",
+      "version": "5.6.2",
+      "versionDate": "",
+      "versionDescription": ""
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "julioverne",
+  "news": [
+    {
+      "appID": "",
+      "caption": "Note: Due to concerns of detection, Spotilife and Deezelife are not available.",
+      "date": "2020-04-12",
+      "identifier": "julioverne-now-available",
+      "imageURL": "https://pbs.twimg.com/profile_images/705483801913196544/HM5HFe2-_400x400.jpg",
+      "notify": false,
+      "tintColor": "028085",
+      "title": "julioverne's tweaks now available on AltStore!"
+    }
+  ],
+  "userInfo": {}
+}
